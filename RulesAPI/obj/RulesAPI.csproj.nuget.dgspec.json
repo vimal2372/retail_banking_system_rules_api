@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Rules microservice\\RulesAPI\\RulesAPI.csproj": {}
+    "C:\\Users\\vimal\\Desktop\\MFPE\\Retail-Banking-System-master\\Rules microservice\\RulesAPI\\RulesAPI.csproj": {}
   },
   "projects": {
-    "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Rules microservice\\RulesAPI\\RulesAPI.csproj": {
+    "C:\\Users\\vimal\\Desktop\\MFPE\\Retail-Banking-System-master\\Rules microservice\\RulesAPI\\RulesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Rules microservice\\RulesAPI\\RulesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\vimal\\Desktop\\MFPE\\Retail-Banking-System-master\\Rules microservice\\RulesAPI\\RulesAPI.csproj",
         "projectName": "RulesAPI",
-        "projectPath": "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Rules microservice\\RulesAPI\\RulesAPI.csproj",
-        "packagesPath": "C:\\Users\\Yogesh\\.nuget\\packages\\",
-        "outputPath": "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Rules microservice\\RulesAPI\\obj\\",
+        "projectPath": "C:\\Users\\vimal\\Desktop\\MFPE\\Retail-Banking-System-master\\Rules microservice\\RulesAPI\\RulesAPI.csproj",
+        "packagesPath": "C:\\Users\\vimal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vimal\\Desktop\\MFPE\\Retail-Banking-System-master\\Rules microservice\\RulesAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Yogesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vimal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
